@@ -1,0 +1,19 @@
+body{
+    
+    background-image: linear-gradient(to top, #BF0B1A, #7193D9);
+    background-repeat: no-repeat;
+}
+
+h1{
+    background-color: #1D2659;
+}
+
+footer{
+    background-color: #730A26;
+    color: white;
+    top: 100%;
+}
+
+#dist{
+    margin-top: 50px;
+}
